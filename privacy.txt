@@ -1,0 +1,3 @@
+Camera is used to access the qr code.
+The app is not storing or using any data that is under the knowledge of the developer.
+Other than this the user is responsible for using the app in his mobile phone. 
